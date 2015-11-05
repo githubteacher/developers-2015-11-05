@@ -7,3 +7,5 @@
 **Location:** San Diego
 
 **Functional Group:** CTO-DEV
+
+**Favorite vacation spot:** Cancun
