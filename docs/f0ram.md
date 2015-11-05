@@ -5,3 +5,5 @@
 **Occupation:** SW Engineer
 
 **Location:** San Francisco
+
+**Favorite vacation spot:**Portland, Maine
