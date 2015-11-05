@@ -4,3 +4,6 @@
 **Occupation:** software engineer
 
 **Location:** Sunnyvale, CA
+
+**Vacation spot:** Hawaii Islands
+
