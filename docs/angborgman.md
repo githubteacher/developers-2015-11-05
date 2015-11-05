@@ -5,3 +5,5 @@
 **Occupation:** Sofware Developer
 
 **Location:** San Diego
+
+**Favorite Vacation Spot:** Disneyland
