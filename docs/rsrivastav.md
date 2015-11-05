@@ -4,4 +4,4 @@ Name : Ritu Srivastav
 
 Occupation : Software Engineer
 
-Location : Mountain View
+Location : Mountain View, California, US
