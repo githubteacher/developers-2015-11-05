@@ -5,3 +5,5 @@
 **Occupation:** Software Configuration Management Engineer
 
 **Location:** Plano, TX
+
+Favorite vacation spot: mountains of Colorado
