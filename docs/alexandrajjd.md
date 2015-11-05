@@ -2,4 +2,4 @@ Name: jjiao
 
 Occupation: Software Engineer
 
-Loacation: Mountain View
+Loacation: Mountain View, CA
