@@ -5,3 +5,5 @@
 **Occupation:** Teacher
 
 **Location:** San Francisco, California
+
+**Favorite vacation spot:** Portland, Maine
