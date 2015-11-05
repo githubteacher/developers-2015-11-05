@@ -5,3 +5,5 @@
 **Occupation:** Engineer
 
 **Location:** San Diego
+
+**Vacation spot:** India
