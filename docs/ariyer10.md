@@ -2,4 +2,6 @@ Name: Ananth
 
 Occupation: Software Engineer
 
-Loacation: Menlo Park
+Location: Menlo Park
+
+**Favorite vacation spot: Hawaii
