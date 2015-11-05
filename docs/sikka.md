@@ -4,4 +4,4 @@
 
 **Occupation:** Github student
 
-**Location:** San Diego
+**Location:** San Diego, California
