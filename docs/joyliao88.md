@@ -2,6 +2,8 @@
 
 - NAME:  joy liao
 
-- Location:  San Diego
+- Location:  San Diego,CA
 
 - Profession:  Software Engineer
+
+- vacation: Tahiti
