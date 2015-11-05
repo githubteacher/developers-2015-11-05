@@ -4,4 +4,4 @@
 
 **Occupation:** Software Engineer
 
-**Location:** San Diego, CA
+**Location:** San Diego, California
