@@ -2,4 +2,4 @@
 
 - **Name:** Xiaoheng Wu
 - **Occupation:** Software Engineer
-- **Location:** Menlo Park
+- **Location:** Menlo Park, California
