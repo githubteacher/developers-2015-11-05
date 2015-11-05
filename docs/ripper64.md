@@ -5,3 +5,5 @@
 **Occupation:** Software Engineer
 
 **Location:** Reno, NV
+
+**Favorite vacation spot:** San Diego, CA
