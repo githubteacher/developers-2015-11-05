@@ -3,4 +3,4 @@
 
 **Occupation:** software engineer
 
-**Location:** Sunnyvale
+**Location:** Sunnyvale, CA
