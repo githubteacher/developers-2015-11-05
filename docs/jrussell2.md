@@ -2,6 +2,6 @@
 
 **Name:** Justin Russell
 
-**Occupation:** SCM Engineer
+**Occupation:** Software Configuration Management Engineer
 
 **Location:** Plano, TX
